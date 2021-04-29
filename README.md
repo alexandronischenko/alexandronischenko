@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @alexandronischenko
+- 👀 I’m interested in .NET
+- 🌱 I’m currently learning .NET and Xamarin
+- 💞️ I’m looking to cooperate with somebody
+- 📫 How to reach me the top
